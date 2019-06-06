@@ -1,0 +1,11 @@
+C:\Users\Meag\workspace\csharp\exercises\lightning-exercises\flower-shop\bin\Debug\netcoreapp2.2\flower-shop.deps.json
+C:\Users\Meag\workspace\csharp\exercises\lightning-exercises\flower-shop\bin\Debug\netcoreapp2.2\flower-shop.runtimeconfig.json
+C:\Users\Meag\workspace\csharp\exercises\lightning-exercises\flower-shop\bin\Debug\netcoreapp2.2\flower-shop.runtimeconfig.dev.json
+C:\Users\Meag\workspace\csharp\exercises\lightning-exercises\flower-shop\bin\Debug\netcoreapp2.2\flower-shop.dll
+C:\Users\Meag\workspace\csharp\exercises\lightning-exercises\flower-shop\bin\Debug\netcoreapp2.2\flower-shop.pdb
+C:\Users\Meag\workspace\csharp\exercises\lightning-exercises\flower-shop\obj\Debug\netcoreapp2.2\flower-shop.csprojAssemblyReference.cache
+C:\Users\Meag\workspace\csharp\exercises\lightning-exercises\flower-shop\obj\Debug\netcoreapp2.2\flower-shop.csproj.CoreCompileInputs.cache
+C:\Users\Meag\workspace\csharp\exercises\lightning-exercises\flower-shop\obj\Debug\netcoreapp2.2\flower-shop.AssemblyInfoInputs.cache
+C:\Users\Meag\workspace\csharp\exercises\lightning-exercises\flower-shop\obj\Debug\netcoreapp2.2\flower-shop.AssemblyInfo.cs
+C:\Users\Meag\workspace\csharp\exercises\lightning-exercises\flower-shop\obj\Debug\netcoreapp2.2\flower-shop.dll
+C:\Users\Meag\workspace\csharp\exercises\lightning-exercises\flower-shop\obj\Debug\netcoreapp2.2\flower-shop.pdb
